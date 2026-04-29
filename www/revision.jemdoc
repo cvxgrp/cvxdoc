@@ -39,5 +39,5 @@ and the iconic visual look of generated pages.
 Version history before 1.0 (the original jemdoc 0.1--0.7.3 by Jacob
 Mattingley, then jemdoc+MathJax by Wonseok Shin) is preserved in the git
 log of this repository. See
-[https://github.com/cvxgrp/cvxdoc/commits the GitHub commit history]
+[https://github.com/cvxgrp/jemdoc-cvx/commits the GitHub commit history]
 or run +git log --reverse+ in a clone.

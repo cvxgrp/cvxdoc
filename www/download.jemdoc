@@ -5,7 +5,7 @@ jemdoc-cvx is distributed as source on GitHub:
 
 ~~~
 {}{}
-git clone https://github.com/cvxgrp/cvxdoc.git
+git clone https://github.com/cvxgrp/jemdoc-cvx.git
 ~~~
 
 The single executable script is +./jemdoc+ at the repo root. It uses only the

@@ -17,7 +17,7 @@ and server-side equation rendering with [https://katex.org/ KaTeX]. See
 the [download.html download page] to get started or the
 [revision.html revision notes] for what changed.
 
-[https://github.com/cvxgrp/cvxdoc Contribute to jemdoc-cvx on GitHub.]
+[https://github.com/cvxgrp/jemdoc-cvx Contribute to jemdoc-cvx on GitHub.]
 
 == Goals
 - Simple, consistent syntax.

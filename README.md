@@ -18,8 +18,8 @@ Usage
 The whole tool is a single executable Python script. From a clone of this
 repo:
 
-    git clone https://github.com/cvxgrp/cvxdoc.git
-    cd cvxdoc
+    git clone https://github.com/cvxgrp/jemdoc-cvx.git
+    cd jemdoc-cvx
     sudo install ./jemdoc /usr/local/bin/jemdoc   # optional, puts it on $PATH
 
 You can also just invoke `./jemdoc` directly from the clone, or copy it into
@@ -40,7 +40,7 @@ Make a working directory, copy a stylesheet next to it, and write a source
 file:
 
     mkdir mysite && cd mysite
-    cp /path/to/cvxdoc/css/jemdoc.css .
+    cp /path/to/jemdoc-cvx/css/jemdoc.css .
     cat > index.jemdoc <<'EOF'
     = My first jemdoc page
 
